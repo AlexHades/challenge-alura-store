@@ -100,6 +100,12 @@ pip install pandas numpy matplotlib seaborn pyarrow
 - `AluraStoreLatam.ipynb` — flujo principal del **EDA comparativo** y generación de gráficos.
 
 ---
+## 🌐 Vista Web
+
+Haz clic aquí para ver el notebook en línea:
+
+➡️ **[Ver Notebook en NBViewer](https://nbviewer.org/github/AlexHades/challenge-alura-store/blob/master/AluraStoreLatam.ipynb)**
+---
 
 ## 🤝 Contribuciones
 ¡Ideas y PRs son bienvenidos!  
