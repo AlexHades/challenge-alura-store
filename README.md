@@ -117,4 +117,4 @@ Sugerencias típicas:
 ---
 
 ## 📄 Licencia
-Este proyecto se publica con fines educativos. Ajusta la licencia según tus necesidades.
+Este proyecto se publica con fines educativos.
